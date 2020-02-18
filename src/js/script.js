@@ -3,7 +3,7 @@
 //script.js
 
 (function () {
-  var seminars = 'https://raw.githubusercontent.com/ttu-biology/seminar-eeb/master/seminars/2020_spring.yml';
+  var seminars = 'https://raw.githubusercontent.com/ttu-biology/seminar-dept/master/seminars/2020_spring.yml';
 
   /* fetch statement which uses the updateUISuccess and updateUIFailure functions to create the UI */
   fetch(seminars).then(function (response) {
