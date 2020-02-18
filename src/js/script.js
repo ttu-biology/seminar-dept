@@ -135,7 +135,7 @@
       let speaker_website = document.createElement('a');
       speaker_website.classList.add('speaker_website');
       speaker_website.href = seminar.speaker_website;
-      speaker_website.title = seminar.speaker;
+      speaker_website.title = `${seminar.speaker} - ${seminar.speaker_affiliation}`;
       speaker_website.target = '_blank';
       speaker_website.textContent = seminar.speaker;
 
@@ -152,7 +152,7 @@
       let host_website = document.createElement('a');
       host_website.classList.add('host_website');
       host_website.href = seminar.host_website;
-      host_website.title = seminar.host;
+      host_website.title = `${seminar.host} - ${seminar.host_affiliation}`;
       host_website.target = '_blank';
       host_website.textContent = seminar.host;
 
