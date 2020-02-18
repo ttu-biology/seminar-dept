@@ -1,0 +1,133 @@
+# Ecology, Evolution, and Behavior (EEB) Seminar
+# Spring 2020 schedule
+
+seminars:
+  - date: "January 22, 2020"
+    title: "Plants aren’t dumb: Using optimality theory to address big questions in plant ecophysiology"
+    seminar_image: "eeb_smith.jpg"
+    speaker: "Dr. Nick Smith"
+    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/smith/"
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "January 29, 2020"
+    title: "Fragmentation of the playa wetland network."
+    seminar_image: "eeb_mcintyre.jpg"
+    speaker: "Dr. Nancy McIntyre"
+    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/mcintyre/"
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+    
+  - date: "February 05, 2020"
+    title: "CANCELED"
+    seminar_image: ""
+    speaker: "NA"
+    speaker_website: ""
+    host: "NA"
+    host_website: ""
+    is_cancelled: false
+
+  - date: "February 12, 2020"
+    title: "Using Herbarium specimens to understand genetics and physiological responses to land use and climate change in the Guadalupe Mountains"
+    seminar_image: "eeb_johnson.jpg"
+    speaker: "Dr. Matt Johnson"
+    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/Johnson/"
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "February 19, 2020"
+    title: "Information Use by Individuals, and its Contribution to Population Growth and Persistence"
+    seminar_image: "eeb_schmidt.jpg"
+    speaker: "Dr. Ken Schmidt"
+    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    host: "NA"
+    host_website: ""
+    is_cancelled: false
+
+  - date: "February 26, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_website: ""
+    host: "TBA"
+    host_website: ""
+    is_cancelled: false
+
+  - date: "March 04, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_website: ""
+    host: "TBA"
+    host_website: ""
+    is_cancelled: false
+
+  - date: "March 11, 2020"
+    title: "Understanding Migration Diversity: Synthesizing a framework for Investigating Complex Patterns of Migration"
+    seminar_image: "eeb_clerc.jpg"
+    speaker: "Jeff Clerc"
+    speaker_website: ""
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "March 18, 2020"
+    is_holiday: true
+    holiday_name: "Spring Break"
+
+  - date: "March 25, 2020"
+    title: "Using mathematical models to optimize control of invading plant pathogens."
+    seminar_image: ""
+    speaker: "Dr. Nik Cunniffe"
+    speaker_website: "https://www.plantsci.cam.ac.uk/research/nikcunniffe"
+    host: "Dr. Linda Allen and Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "April 01, 2020"
+    title: "Population genomics of the Brown Creeper"
+    seminar_image: "eeb_manthey.jpg"
+    speaker: "Dr. Joe Manthey"
+    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/Manthey/"
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "April 08, 2020"
+    title: "Comparative Demography of Central American birds inhabiting pine-oak forests."
+    seminar_image: "eeb_hruska.jpg"
+    speaker: "Jack Hruska"
+    speaker_website: ""
+    host: "Dr. Joe Manthey"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Manthey/"
+    is_cancelled: false
+
+  - date: "April 15, 2020"
+    title: "Digging into population genetics and distributions of Texas Geomyoid rodents"
+    seminar_image: "eeb_halsey.jpg"
+    speaker: "Michaela Halsey"
+    speaker_website: ""
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "April 22, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "Dr. Diana Moreno"
+    speaker_website: ""
+    host: "Dr. Ken Schmidt"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    is_cancelled: false
+
+  - date: "April 29, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_website: ""
+    host: "TBA"
+    host_website: ""
+    is_cancelled: false
