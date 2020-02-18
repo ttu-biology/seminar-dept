@@ -3,21 +3,21 @@
 
 seminars:
   - date: "January 22, 2020"
-    title: "Plants aren’t dumb: Using optimality theory to address big questions in plant ecophysiology"
-    seminar_image: "eeb_smith.jpg"
-    speaker: "Dr. Nick Smith"
-    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/smith/"
-    host: "Dr. Ken Schmidt"
-    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    title: "Roosting ecology and the evolution of bat landing mechanics"
+    seminar_image: "boerma.jpg"
+    speaker: "Dr. David Boerma - American Museum of Natural History and TTU"
+    speaker_website: ""
+    host: "Dr. Tigga Kingston - Texas Tech University"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Kingston/"
     is_cancelled: false
 
   - date: "January 29, 2020"
-    title: "Fragmentation of the playa wetland network."
-    seminar_image: "eeb_mcintyre.jpg"
-    speaker: "Dr. Nancy McIntyre"
-    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/mcintyre/"
-    host: "Dr. Ken Schmidt"
-    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    title: "CANCELED"
+    seminar_image: ""
+    speaker: "NA"
+    speaker_website: ""
+    host: "NA"
+    host_website: ""
     is_cancelled: false
     
   - date: "February 05, 2020"
@@ -30,38 +30,38 @@ seminars:
     is_cancelled: false
 
   - date: "February 12, 2020"
-    title: "Using Herbarium specimens to understand genetics and physiological responses to land use and climate change in the Guadalupe Mountains"
-    seminar_image: "eeb_johnson.jpg"
-    speaker: "Dr. Matt Johnson"
-    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/Johnson/"
-    host: "Dr. Ken Schmidt"
-    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
+    title: "Renal lipids, gut microbes, and kidney disease"
+    seminar_image: ""
+    speaker: "Dr. Ion Bobulescu - TTUHSC"
+    speaker_website: "https://www.ttuhsc.edu/medicine/cell-biology-biochemistry/faculty/bobulescu.aspx"
+    host: "Dr. Zemfira Karamysheva - Texas Tech University"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Karamysheva/"
     is_cancelled: false
 
   - date: "February 19, 2020"
-    title: "Information Use by Individuals, and its Contribution to Population Growth and Persistence"
-    seminar_image: "eeb_schmidt.jpg"
-    speaker: "Dr. Ken Schmidt"
-    speaker_website: "https://www.depts.ttu.edu/biology/people/Faculty/Schmidt/"
-    host: "NA"
-    host_website: ""
+    title: "Role of water use and stress tolerance in woody encroachment, genetically modified biofuel plants, and urban ecosystems in the Southern Great Plains"
+    seminar_image: "mccarthy.jpg"
+    speaker: "Dr. Heather McCarthy - Oklahoma State University"
+    speaker_website: "http://bomi.ou.edu/mccarthy/"
+    host: "Dr. Nick Smith - Texas Tech University"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Smith/"
     is_cancelled: false
 
   - date: "February 26, 2020"
-    title: "TBA"
-    seminar_image: ""
-    speaker: "TBA"
-    speaker_website: ""
-    host: "TBA"
-    host_website: ""
+    title: "Ribosome-Associated Protein Quality Control in Health and Disease"
+    seminar_image: "karamyshev.jpg"
+    speaker: "Dr. Andrey Karamyshev - TTUHSC"
+    speaker_website: "https://www.ttuhsc.edu/medicine/cell-biology-biochemistry/faculty/karamyshev.aspx"
+    host: "Dr. Zemfira Karamysheva - Texas Tech University"
+    host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Karamysheva/"
     is_cancelled: false
 
   - date: "March 04, 2020"
     title: "TBA"
     seminar_image: ""
-    speaker: "TBA"
-    speaker_website: ""
-    host: "TBA"
+    speaker: "Dr. Amanda Adams - Texas A&M University"
+    speaker_website: "https://amadams.org/"
+    host: "Emma Kunkel - Texas Tech University"
     host_website: ""
     is_cancelled: false
 
