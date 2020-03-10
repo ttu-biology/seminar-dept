@@ -20,7 +20,7 @@ seminars:
     speaker_website: ""
     host: "NA"
     host_website: ""
-    is_cancelled: false
+    is_cancelled: true
     
   - date: "February 05, 2020"
     title: "CANCELED"
@@ -31,7 +31,7 @@ seminars:
     host: "Dr. Ruth Serra-Moreno"
     host_affiliation: "Texas Tech University"
     host_website: "https://www.depts.ttu.edu/biology/people/Faculty/Serra-Moreno"
-    is_cancelled: false
+    is_cancelled: true
 
   - date: "February 12, 2020"
     title: "Renal lipids, gut microbes, and kidney disease"
@@ -104,7 +104,7 @@ seminars:
     is_cancelled: false
 
   - date: "April 01, 2020"
-    title: "Auxin-Cytokinin dynamics during soybean nodule development"
+    title: "CANCELED"
     seminar_image: ""
     speaker: "Dr. Sen Subramanian"
     speaker_affiliation: "South Dakota State University"
@@ -112,7 +112,7 @@ seminars:
     host: "Dr. Hong Zhang"
     host_affiliation: "Texas Tech University"
     host_website: "https://www.depts.ttu.edu/biology/people/Faculty/ZhangHong/"
-    is_cancelled: false
+    is_cancelled: true
 
   - date: "April 08, 2020"
     title: "Pet dogs, citizen science, and the complicated genetics of behavior"
