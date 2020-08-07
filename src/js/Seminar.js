@@ -6,7 +6,7 @@ export class Seminar {
 
   get load() {
     window.addEventListener('DOMContentLoaded', (e) => {
-      const seminarURI = this.adapter.pastSemesterURI;
+      const seminarURI = this.adapter.currentSemesterURI;
       this.addSeminarNav
       this.getSeminars(seminarURI);
     });
