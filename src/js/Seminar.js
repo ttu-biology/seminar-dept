@@ -7,8 +7,24 @@ export class Seminar {
   get load() {
     window.addEventListener('DOMContentLoaded', (e) => {
       const seminarURI = this.adapter.pastSemesterURI;
+      this.addSeminarNav
       this.getSeminars(seminarURI);
     });
+  }
+
+  get addSeminarNav(){
+    const seminarNav = document.getElementById('seminar-nav');
+    const pastSeminar = document.createElement('li');
+    const currentSeminar = document.createElement('li');
+    const futureSeminar = document.createElement('li');
+
+    pastSeminar.innerHTML = `<a href="${this.adapter.pastSemesterURI}">${this.adapter.pastSeminarName}</a>` 
+    currentSeminar.innerHTML = `<a href="${this.adapter.currentSemesterURI}">${this.adapter.currentSeminarName}</a>` 
+    futureSeminar.innerHTML = `<a href="${this.adapter.futureSemesterURI}">${this.adapter.futureSeminarName}</a>` 
+
+    const seminarLinks = [pastSeminar, currentSeminar, futureSeminar];
+
+    seminarLinks.map( (seminar) => seminarNav.appendChild(seminar));
   }
 
   removeElements(classOrId){
