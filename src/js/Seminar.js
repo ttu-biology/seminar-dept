@@ -1,4 +1,4 @@
 export class Seminar {
-  constructor(){
+  constructor(adapter){
   }
 }
