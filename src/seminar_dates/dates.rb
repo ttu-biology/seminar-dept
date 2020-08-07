@@ -1,6 +1,6 @@
 require 'date'
 
-academic_year = 2020
+academic_year = 2021
 
 fall_start = Date.new(academic_year,8,26)
 fall_end = Date.new(academic_year,12,4)
