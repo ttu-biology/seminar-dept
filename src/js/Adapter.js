@@ -16,22 +16,27 @@ export class Adapter {
   }
 
   get currentSemesterURI() {
-    return `${this.baseURI}${this.currentYear}_${this.currentSemester}.yml`
+    return `${this.baseURI}${this.currentYear}_${this.currentSemester}.json`
   }
 
   get pastSemesterURI() {
     if (this.currentSemester == "spring") {
-      return `${this.baseURI}${this.PastYear}_${this.nonCurrentSemester}.yml`
+      return `${this.baseURI}${this.PastYear}_${this.nonCurrentSemester}.json`
     } else {
-      return `${this.baseURI}${this.currentYear}_${this.nonCurrentSemester}.yml`
+      return `${this.baseURI}${this.currentYear}_${this.nonCurrentSemester}.json`
     }
   }
 
   get futureSemesterURI() {
     if (this.currentSemester == "fall") {
-      return `${this.baseURI}${this.futureYear}_${this.nonCurrentSemester}.yml`
+      return `${this.baseURI}${this.futureYear}_${this.nonCurrentSemester}.json`
     } else {
-      return `${this.baseURI}${this.currentYear}_${this.nonCurrentSemester}.yml`
+      return `${this.baseURI}${this.currentYear}_${this.nonCurrentSemester}.json`
     }
+  }
+
+  get(seminarURI) {
+    return fetch(seminarURI)
+           .then(response => response.json())
   }
 }

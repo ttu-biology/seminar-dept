@@ -14,3 +14,5 @@ x.innerHTML = `<ul>
                 <li>future: ${adapter.futureSemesterURI}</li>
                </ul> 
                 `;
+
+seminarPage.seminars;
