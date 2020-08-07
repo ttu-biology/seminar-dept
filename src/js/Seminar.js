@@ -9,6 +9,7 @@ export class Seminar {
       const seminarURI = this.adapter.currentSemesterURI;
       this.addSeminarNav
       this.getSeminars(seminarURI);
+      this.addEventListeners;
     });
   }
 
@@ -18,13 +19,28 @@ export class Seminar {
     const currentSeminar = document.createElement('li');
     const futureSeminar = document.createElement('li');
 
-    pastSeminar.innerHTML = `<a href="${this.adapter.pastSemesterURI}">${this.adapter.pastSeminarName}</a>` 
-    currentSeminar.innerHTML = `<a href="${this.adapter.currentSemesterURI}">${this.adapter.currentSeminarName}</a>` 
-    futureSeminar.innerHTML = `<a href="${this.adapter.futureSemesterURI}">${this.adapter.futureSeminarName}</a>` 
+    pastSeminar.innerHTML = `<a href="${this.adapter.pastSemesterURI}" id="past-seminar">${this.adapter.pastSeminarName}</a>` 
+    currentSeminar.innerHTML = `<a href="${this.adapter.currentSemesterURI}" id="current-seminar">${this.adapter.currentSeminarName}</a>` 
+    futureSeminar.innerHTML = `<a href="${this.adapter.futureSemesterURI}" id="future-seminar">${this.adapter.futureSeminarName}</a>` 
 
     const seminarLinks = [pastSeminar, currentSeminar, futureSeminar];
 
-    seminarLinks.map( (seminar) => seminarNav.appendChild(seminar));
+    seminarLinks.map( (seminar) => seminarNav.appendChild(seminar) );
+  }
+
+  get addEventListeners() {
+    this.addSeminarClickListener("past-seminar");
+    this.addSeminarClickListener("current-seminar");
+    this.addSeminarClickListener("future-seminar");
+  }
+
+  addSeminarClickListener(seminarLinkId){
+    const seminarLink = document.getElementById(seminarLinkId);
+    seminarLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      const seminarURI = e.target.href;
+      this.getSeminars(seminarURI);
+    });
   }
 
   removeElements(classOrId){

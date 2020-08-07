@@ -9,4 +9,3 @@ const adapter = new Adapter(date, baseURI);
 const seminarPage = new Seminar(adapter, baseImageURI);
 
 seminarPage.load;
-seminarPage.addEventListeners;
