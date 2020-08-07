@@ -7,12 +7,12 @@ const baseURI = "https://raw.githubusercontent.com/ttu-biology/seminar-dept/mast
 const adapter = new Adapter(date, baseURI);
 const seminarPage = new Seminar(adapter);
 
-let x = document.getElementById("seminars");
-x.innerHTML = `<ul>
-                <li>past: ${adapter.pastSemesterURI}</li>
-                <li>current: ${adapter.currentSemesterURI}</li>
-                <li>future: ${adapter.futureSemesterURI}</li>
-               </ul> 
-                `;
+// let x = document.getElementById("seminars");
+// x.innerHTML = `<ul>
+//                 <li>past: ${adapter.pastSemesterURI}</li>
+//                 <li>current: ${adapter.currentSemesterURI}</li>
+//                 <li>future: ${adapter.futureSemesterURI}</li>
+//                </ul> 
+//                 `;
 
-seminarPage.seminars;
+seminarPage.load;
