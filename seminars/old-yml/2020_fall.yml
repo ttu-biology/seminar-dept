@@ -1,0 +1,174 @@
+# Departmental Seminar 
+# Fall 2020 schedule
+
+# Example
+#
+#   - date: "April 29, 2020"
+#     title: "TBA"
+#     seminar_image: ""
+#     speaker: "TBA"
+#     speaker_affiliation: ""
+#     speaker_website: ""
+#     host: "TBA"
+#     host_affiliation: ""
+#     host_website: ""
+#     is_cancelled: false
+
+seminars:
+  - date: "August 26, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "September 02, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+    
+  - date: "September 09, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "September 16, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "September 23, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "September 30, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "October 07, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "October 14, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "October 21, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "October 28, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "November 04, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "November 11, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "November 18, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
+
+  - date: "November 25, 2020"
+    is_holiday: true
+    holiday_name: "Thanksgiving"
+
+  - date: "December 02, 2020"
+    title: "TBA"
+    seminar_image: ""
+    speaker: "TBA"
+    speaker_affiliation: ""
+    speaker_website: ""
+    host: "TBA"
+    host_affiliation: ""
+    host_website: ""
+    is_cancelled: false
