@@ -95,7 +95,7 @@ img.advert {
   width: auto;
   margin: 0;
   padding: 0;
-  transition: ease-in 0.2s;
+  transition: ease-out 0.3s;
 }
 
 div.advert_placeholder {
@@ -124,7 +124,7 @@ div.advert_placeholder {
 .advert:focus {
   text-decoration: none;
   cursor: pointer;
-  transform: scale(1.04);
+  transform: scale(2.5) translate(90px);
 }
 
 img.modal_content {
@@ -194,6 +194,13 @@ img.modal_content {
 }
 
 @media screen and (max-width: 575px) {
+  .advert:hover,
+  .advert:focus {
+    text-decoration: none;
+    cursor: pointer;
+    transform: scale(1) translate(0px);
+  }
+
   section.seminar {
     display: flex;
     justify-content: center;
