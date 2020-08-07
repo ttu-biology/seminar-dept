@@ -1,0 +1,189 @@
+{
+   "seminars": [
+      {
+         "date": "January 19, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "January 26, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 02, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 09, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 16, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 23, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 02, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 09, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 16, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 23, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 30, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 06, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 13, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 20, 2022",
+         "is_holiday": true,
+         "holiday_name": "Spring Break"
+      },
+      {
+         "date": "April 27, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "May 04, 2022",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      }
+   ]
+}
