@@ -10,6 +10,9 @@ article#seminars {
   justify-content: space-between;
 }
 
+article#seminar_dates{
+}
+
 section.seminar {
   display: flex;
   justify-content: start;
