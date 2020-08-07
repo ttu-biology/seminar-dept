@@ -1,0 +1,189 @@
+{
+   "seminars": [
+      {
+         "date": "January 20, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "January 27, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 03, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 10, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 17, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "February 24, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 03, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 10, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 17, 2021",
+         "is_holiday": true,
+         "holiday_name": "Spring Break"
+      },
+      {
+         "date": "March 24, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "March 31, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 07, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 14, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 21, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "April 28, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+      {
+         "date": "May 05, 2021",
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      }
+   ]
+}
