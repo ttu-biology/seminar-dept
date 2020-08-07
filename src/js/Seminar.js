@@ -20,7 +20,7 @@ export class Seminar {
     const futureSeminar = document.createElement('li');
 
     pastSeminar.innerHTML = `<a href="${this.adapter.pastSemesterURI}" id="past-seminar">${this.adapter.pastSeminarName}</a>` 
-    currentSeminar.innerHTML = `<a href="${this.adapter.currentSemesterURI}" id="current-seminar">${this.adapter.currentSeminarName}</a>` 
+    currentSeminar.innerHTML = `<a href="${this.adapter.currentSemesterURI}" id="current-seminar" class="selected-seminar">${this.adapter.currentSeminarName}</a>` 
     futureSeminar.innerHTML = `<a href="${this.adapter.futureSemesterURI}" id="future-seminar">${this.adapter.futureSeminarName}</a>` 
 
     const seminarLinks = [pastSeminar, currentSeminar, futureSeminar];
@@ -40,6 +40,9 @@ export class Seminar {
       e.preventDefault();
       const seminarURI = e.target.href;
       this.getSeminars(seminarURI);
+      const selectedSeminar = document.querySelector(".selected-seminar");
+      selectedSeminar.classList.remove("selected-seminar")
+      e.target.classList.add("selected-seminar")
     });
   }
 
