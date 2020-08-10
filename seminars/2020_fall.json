@@ -86,14 +86,14 @@
       },
       {
          "date": "October 14, 2020",
-         "title": "TBA",
-         "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "TBA",
-         "host_affiliation": "",
-         "host_website": "",
+         "title": "Solving a multidrug resistance puzzle: Complete loss of lipooligosaccharide",
+         "seminar_image": "boll.jpg",
+         "speaker": "Dr. Joseph Boll",
+         "speaker_affiliation": "University of Texas Arlington",
+         "speaker_website": "https://bolllab.org/",
+         "host": "Dr. Catherine Wakeman",
+         "host_affiliation": "Texas Tech University",
+         "host_website": "https://www.depts.ttu.edu/biology/people/Faculty/Wakeman/"
          "is_cancelled": false
       },
       {
