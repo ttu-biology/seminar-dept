@@ -112,12 +112,12 @@
          "date": "October 28, 2020",
          "title": "TBA",
          "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "TBA",
+         "speaker": "Dr. Jeffery S. Dukes",
+         "speaker_affiliation": "Purdue University",
+         "speaker_website": "https://web.ics.purdue.edu/~jsdukes/Dukes.html",
+         "host": "Dr. Natasja van Gestel",
          "host_affiliation": "",
-         "host_website": "",
+         "host_website": "http://www.depts.ttu.edu/biology/people/Faculty/vanGestel/",
          "is_cancelled": false
       },
       {
@@ -152,7 +152,7 @@
          "speaker_affiliation": "Indiana University",
          "speaker_website": "https://phillipslab.bio.indiana.edu/",
          "host": "Dr. Nick Smith",
-         "host_affiliation": "",
+         "host_affiliation": "http://www.depts.ttu.edu/biology/people/Faculty/Smith/",
          "host_website": "",
          "is_cancelled": false
       },
