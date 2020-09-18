@@ -86,14 +86,14 @@
       },
       {
          "date": "October 14, 2020",         
-         "title": "TBA",
-         "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "TBA",
-         "host_affiliation": "",
-         "host_website": "",
+         "title": "Pet dogs, citizen science, and the complicated genetics of behavior",
+         "seminar_image": "karlsson.jpg",
+         "speaker": "Dr. Elinor Karlsson",
+         "speaker_affiliation": "Broad Institute",
+         "speaker_website": "https://www.broadinstitute.org/bios/elinor-karlsson",
+         "host": "Dr. David Ray",
+         "host_affiliation": "Texas Tech University",
+         "host_website": "https://www.depts.ttu.edu/biology/people/Faculty/Ray/",
          "is_cancelled": false
       },
       {
