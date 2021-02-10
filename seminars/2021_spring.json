@@ -1,11 +1,24 @@
 {
    "seminars": [
-    {
-         "date": "February 19, 2021",
+
+      {
+         "date": "February 17, 2021",
          "title": "TBA",
          "seminar_image": "",
-         "speaker": "Dr. Lisa Limeri",
+         "speaker": "Dr. Kaleb Heinrich",
          "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+      },
+    {
+         "date": "February 19, 2021",
+         "title": "What do students think about intelligence and why does it matter?",
+         "seminar_image": "",
+         "speaker": "Dr. Lisa Limeri",
+         "speaker_affiliation": "University of Georgia",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
@@ -17,7 +30,7 @@
          "title": "TBA",
          "seminar_image": "",
          "speaker": "Dr. Vladi Karniychuk",
-         "speaker_affiliation": "",
+         "speaker_affiliation": "University of Saskatchewan",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
@@ -77,7 +90,7 @@
          "title": "TBA",
          "seminar_image": "",
          "speaker": "Dr. Lei Wei",
-         "speaker_affiliation": "",
+         "speaker_affiliation": "Princeton University",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
@@ -113,7 +126,7 @@
          "title": "TBA",
          "seminar_image": "",
          "speaker": "Dr. Lisa Bono",
-         "speaker_affiliation": "",
+         "speaker_affiliation": "Emory University",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
@@ -125,7 +138,7 @@
          "title": "TBA",
          "seminar_image": "",
          "speaker": "Dr. Maria Onyango",
-         "speaker_affiliation": "",
+         "speaker_affiliation": "Wadsworth Center",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
