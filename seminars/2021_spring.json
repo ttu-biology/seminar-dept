@@ -8,7 +8,7 @@
          "speaker": "Dr. Kaleb Heinrich",
          "speaker_affiliation": "University of Alabama",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -20,7 +20,7 @@
          "speaker": "Dr. Lisa Limeri",
          "speaker_affiliation": "University of Georgia",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -32,7 +32,7 @@
          "speaker": "Dr. Vladi Karniychuk",
          "speaker_affiliation": "University of Saskatchewan",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -44,7 +44,7 @@
          "speaker": "Dr. Gena Sbeglia",
          "speaker_affiliation": "Stony Brook University",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -56,7 +56,7 @@
          "speaker": "Dr. Amberleigh Henschern",
          "speaker_affiliation": "University of Memphis",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -68,7 +68,7 @@
          "speaker": "Dr. Michael Moore",
          "speaker_affiliation": "University of California at Davis",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -80,7 +80,7 @@
          "speaker": "Dr. Joe McMillan",
          "speaker_affiliation": "Connecticut Agricultural Experiment Station",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -92,19 +92,19 @@
          "speaker": "Dr. Lei Wei",
          "speaker_affiliation": "Princeton University",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
       },      
       {
          "date": "March 17, 2021",
-         "title": "TBA",
+         "title": "The Hostess with the Mostest: Vector-host relationships at the landscape and individual level and implications for vector-borne diseases",
          "seminar_image": "",
          "speaker": "Dr. Karen Poh",
          "speaker_affiliation": "Pennsylvania State University",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -116,7 +116,7 @@
          "speaker": "Dr. Anni Yang",
          "speaker_affiliation": "Colorado State University",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -128,7 +128,7 @@
          "speaker": "Dr. Lisa Bono",
          "speaker_affiliation": "Emory University",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -140,7 +140,7 @@
          "speaker": "Dr. Maria Onyango",
          "speaker_affiliation": "Wadsworth Center",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -152,7 +152,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -164,7 +164,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -176,7 +176,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -188,7 +188,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -200,7 +200,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
@@ -212,7 +212,7 @@
          "speaker": "TBA",
          "speaker_affiliation": "",
          "speaker_website": "",
-         "host": "TBA",
+         "host": "",
          "host_affiliation": "",
          "host_website": "",
          "is_cancelled": false
