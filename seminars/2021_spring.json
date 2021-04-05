@@ -171,8 +171,8 @@
       },
       {
          "date": "April 14, 2021",
-         "title": "TBA",
-         "seminar_image": "",
+         "title": "Using genome-scale data to find the needle(s) in the haystack",
+         "seminar_image": "handy.png",
          "speaker": "Dr. Sara Handy",
          "speaker_affiliation": "US Food and Drug Administration",
          "speaker_website": "https://scholar.google.com/citations?user=3iEknRMAAAAJ&hl=en",
@@ -195,14 +195,14 @@
       },
       {
          "date": "April 28, 2021",
-         "title": "TBA",
-         "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "",
-         "host_affiliation": "",
-         "host_website": "",
+         "title": "What Omics can Tell us about Bat Immunity",
+         "seminar_image": "moreno.png",
+         "speaker": "Dr. Diana Moreno Santillán",
+         "speaker_affiliation": "Texas Tech University",
+         "speaker_website": "https://www.researchgate.net/profile/Diana-Moreno-Santillan",
+         "host": "Dr. David Ray",
+         "host_affiliation": "Texas Tech University",
+         "host_website": "http://www.davidraylab.com/",
          "is_cancelled": false
       },
       {
