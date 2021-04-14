@@ -185,12 +185,12 @@
          "date": "April 21, 2021",
          "title": "TBA",
          "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
+         "speaker": "Dr. Raul Cabrera",
+         "speaker_affiliation": "Rutgers University",
          "speaker_website": "",
-         "host": "",
-         "host_affiliation": "",
-         "host_website": "",
+         "host": "Dr. Jennifer Smith",
+         "host_affiliation": "Texas Tech University",
+         "host_website": "https://www.depts.ttu.edu/biology/people/Staff/smith.php",
          "is_cancelled": false
       },
       {
@@ -207,13 +207,13 @@
       },
       {
          "date": "May 05, 2021",
-         "title": "TBA",
+         "title": "Considering the lab animal within its context: a view on reproducibility",
          "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "",
-         "host_affiliation": "",
+         "speaker": "Dr. Jeremy Bailoo",
+         "speaker_affiliation": "Texas Tech University Health Sciences center",
+         "speaker_website": "https://sites.google.com/view/drbailoo",
+         "host": "Dr. Catherine Wakeman",
+         "host_affiliation": "Texas Tech University",
          "host_website": "",
          "is_cancelled": false
       }
