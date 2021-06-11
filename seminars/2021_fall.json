@@ -4,8 +4,8 @@
          "date": "September 01, 2021",
          "title": "TBA",
          "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
+         "speaker": "Zemfira Karamysheva",
+         "speaker_affiliation": "Texas Tech University",
          "speaker_website": "",
          "host": "TBA",
          "host_affiliation": "",
@@ -146,23 +146,11 @@
       },
       {
          "date": "November 24, 2021",
-         "title": "TBA",
-         "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "TBA",
-         "host_affiliation": "",
-         "host_website": "",
-         "is_cancelled": false
-      },
-      {
-         "date": "December 01, 2021",
          "is_holiday": true,
          "holiday_name": "Thanksgiving"
       },
       {
-         "date": "December 08, 2021",
+         "date": "December 01, 2021",
          "title": "TBA",
          "seminar_image": "",
          "speaker": "TBA",
