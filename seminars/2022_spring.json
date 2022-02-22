@@ -98,15 +98,8 @@
       },
       {
          "date": "March 16, 2022",
-         "title": "TBA",
-         "seminar_image": "",
-         "speaker": "TBA",
-         "speaker_affiliation": "",
-         "speaker_website": "",
-         "host": "TBA",
-         "host_affiliation": "",
-         "host_website": "",
-         "is_cancelled": false
+         "is_holiday": true,
+         "holiday_name": "Spring Break"
       },
       {
          "date": "March 23, 2022",
@@ -157,9 +150,17 @@
          "is_cancelled": false
       },
       {
-         "date": "April 20, 2022",
-         "is_holiday": true,
-         "holiday_name": "Spring Break"
+         "date": "April 20, 2022",         
+         "title": "TBA",
+         "seminar_image": "",
+         "speaker": "TBA",
+         "speaker_affiliation": "",
+         "speaker_website": "",
+         "host": "TBA",
+         "host_affiliation": "",
+         "host_website": "",
+         "is_cancelled": false
+
       },
       {
          "date": "April 27, 2022",
